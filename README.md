@@ -1,6 +1,6 @@
 **Inota Plus**: A loan management and credit scoring system for farmers.
 
-Inota Plus is an innovative informational website designed to assist farmers in obtaining loans without the need for a guarantor. Our platform simplifies the loan application process, allowing farmers to focus on their agricultural activities while we handle the financial aspects. We provide a robust credit scoring system that evaluates farmers' creditworthiness based on their financial behaviors, such as utility payments and income from agricultural activities.
+Inota Plus is an innovative informational website designed using React to assist farmers in obtaining loans without the need for a guarantor. Our platform simplifies the loan application process, allowing farmers to focus on their agricultural activities while we handle the financial aspects. We provide a robust credit scoring system that evaluates farmers' creditworthiness based on their financial behaviors, such as utility payments and income from agricultural activities.
 
 
 **Key Features**
