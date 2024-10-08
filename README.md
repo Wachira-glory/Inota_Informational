@@ -17,7 +17,7 @@ Inota Plus is an innovative informational website designed to assist farmers in 
 **Installation**
 To set up Inota Plus locally, follow these steps:
 Clone the repository:
-git clone https://github.com/yourusername/inota-plus.git
+git clone https://github.com/Wachira-glory/inota-plus.git
 
 **Navigate into the project directory**
 
